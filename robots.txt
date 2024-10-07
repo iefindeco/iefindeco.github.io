@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iefindeco.github.io/sitemap.html.gz
+Sitemap: https://iefindeco.github.io/app/sitemap.html.gz
+Sitemap: https://iefindeco.github.io/assets/sitemap.html.gz
+Sitemap: https://iefindeco.github.io/css/sitemap.html.gz
+Sitemap: https://iefindeco.github.io/data/sitemap.html.gz
+Sitemap: https://iefindeco.github.io/includes/sitemap.html.gz
+Sitemap: https://iefindeco.github.io/item/sitemap.html.gz
+Sitemap: https://iefindeco.github.io/src/sitemap.html.gz
